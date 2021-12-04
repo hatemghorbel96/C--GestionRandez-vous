@@ -1,0 +1,62 @@
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\ADO.dll
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\entites.dll
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\ADO.pdb
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\ADO.dll.config
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\entites.pdb
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\entites.dll.config
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Accueil.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ajoute.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ajouterrendez.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compte.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gererPatient.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListCompte.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listrendezvous.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SBS\Desktop\model\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\ADO.dll
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\ADO.pdb
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\ADO.dll.config
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Accueil.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ajoute.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ajouterrendez.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compte.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gererPatient.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListCompte.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listrendezvous.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\entite1.dll
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\entite1.pdb
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\entite1.dll.config
+C:\Users\samsung\Desktop\projet c#\model\WindowsFormsApp1\bin\Debug\fr\EntityFramework.resources.dll
